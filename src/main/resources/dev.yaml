@@ -1,0 +1,8 @@
+http:
+ port: "8086"
+ 
+uhub.sapi.request:
+ host: "localhost"
+ port: "8082"
+ basepath: "covid/v1"
+ subpath: "reports"
